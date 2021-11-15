@@ -1,0 +1,45 @@
+input {
+  padding: 10px;
+  weight: 100%;
+  border-radius: 6px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+  background-color:#2E4053;
+}
+.form {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  background-color:#2E4053
+}
+
+.title {
+  font-weight: bold;
+}
+
+.redtext {
+  color:rgb(165, 63, 63);
+
+}
+
+.validation {
+  border: 2px solid red;
+}
+
+.Form-Login {
+  margin: 100px;
+  padding: 50px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin: 0 200px;
+  padding: 50px;
+  border-radius: 10px;
+}

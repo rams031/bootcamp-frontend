@@ -1,0 +1,11 @@
+.colorGrey {
+    background-color: thistle;
+    padding:5px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+
+.validation {
+    border: 1px solid #900C3F;
+  }

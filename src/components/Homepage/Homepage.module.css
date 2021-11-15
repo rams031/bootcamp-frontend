@@ -1,0 +1,24 @@
+.homepage{
+    margin:0;
+    height: 0;
+    background-color: #FBFCFC;
+    height: 120vh;
+}
+
+.search {
+    margin: 0 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.title {
+    font-weight: bold;
+}
+
+Card {
+    border-radius: 10px;
+}
+
+.itemList {
+    border-radius: 10px;    
+    background-color: white;
+}
